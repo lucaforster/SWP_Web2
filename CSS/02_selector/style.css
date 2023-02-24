@@ -1,0 +1,20 @@
+
+/*Element Selector*/
+div{
+    background-color: blue;
+}
+
+/*ID Selector*/
+#header{
+    font-size: 2rem;
+}
+
+#text p{
+    color: green;
+    background-color: blueviolet;
+}
+
+/*Class Selector*/
+.subtitle{
+    color: red;
+}
