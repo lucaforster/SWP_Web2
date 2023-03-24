@@ -1,6 +1,11 @@
 #Eingabe{
-    background-color: blue;
+    background-color: orange;
     display: flex;
     flex-direction: column;
-    width: 30%;
+    width: 100%;
+    align-items: center;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    
 }
