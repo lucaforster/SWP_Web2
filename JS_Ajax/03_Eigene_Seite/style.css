@@ -1,0 +1,24 @@
+#header{
+    background-color: 	blue;
+    width: 100%;
+    height: 80px;
+    font-size: 40px;
+    border-style: flex;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#suche{
+    background-color: orange;
+    font-size: 25px;
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+}
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+
+}
