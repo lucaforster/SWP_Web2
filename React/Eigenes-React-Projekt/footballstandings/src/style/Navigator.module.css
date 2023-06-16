@@ -1,0 +1,10 @@
+.inline {
+    display: inline-block;
+    margin: 0 5%;
+    padding: 10px;
+    background-color: #76f0e6;
+    border-radius: 5px;
+}
+.inline:hover {
+    cursor: pointer;
+}
