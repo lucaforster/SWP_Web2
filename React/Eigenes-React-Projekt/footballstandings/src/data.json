@@ -1,0 +1,653 @@
+{
+    "leagues": [
+        {
+            "name": "Premier League",
+            "id": "PL",
+            "standings": [
+                {
+                    "pos": 1,
+                    "name": "Manchester City",
+                    "matches": 38,
+                    "points": 89,
+                    "scored_goals": 94,
+                    "conceded_goals": 33
+                },
+                {
+                    "pos": 2,
+                    "name": "FC Arsenal",
+                    "matches": 38,
+                    "points": 84,
+                    "scored_goals": 88,
+                    "conceded_goals": 43
+                },
+                {
+                    "pos": 3,
+                    "name": "Manchester United",
+                    "matches": 38,
+                    "points": 75,
+                    "scored_goals": 58,
+                    "conceded_goals": 43
+                },
+                {
+                    "pos": 4,
+                    "name": "Newcastle United",
+                    "matches": 38,
+                    "points": 71,
+                    "scored_goals": 68,
+                    "conceded_goals": 33
+                },
+                {
+                    "pos": 5,
+                    "name": "Liverpool FC",
+                    "matches": 38,
+                    "points": 67,
+                    "scored_goals": 75,
+                    "conceded_goals": 47
+                },
+                {
+                    "pos": 6,
+                    "name": "Brighton Hove Albion",
+                    "matches": 38,
+                    "points": 62,
+                    "scored_goals": 72,
+                    "conceded_goals": 53
+                },
+                {
+                    "pos": 7,
+                    "name": "Aston Villa",
+                    "matches": 38,
+                    "points": 61,
+                    "scored_goals": 51,
+                    "conceded_goals": 46
+                },
+                {
+                    "pos": 8,
+                    "name": "Tottenham Hotspur",
+                    "matches": 38,
+                    "points": 60,
+                    "scored_goals": 70,
+                    "conceded_goals": 63
+                },
+                {
+                    "pos": 9,
+                    "name": "Brentford",
+                    "matches": 38,
+                    "points": 59,
+                    "scored_goals": 58,
+                    "conceded_goals": 46
+                },
+                {
+                    "pos": 10,
+                    "name": "Fulham FC",
+                    "matches": 38,
+                    "points": 52,
+                    "scored_goals": 55,
+                    "conceded_goals": 53
+                },
+                {
+                    "pos": 11,
+                    "name": "Crystal Palace",
+                    "matches": 38,
+                    "points": 45,
+                    "scored_goals": 40,
+                    "conceded_goals": 49
+                },
+                {
+                    "pos": 12,
+                    "name": "Chelsea FC",
+                    "matches": 38,
+                    "points": 44,
+                    "scored_goals": 38,
+                    "conceded_goals": 47
+                },
+                {
+                    "pos": 13,
+                    "name": "Wolverhampton Wonderers",
+                    "matches": 38,
+                    "points": 41,
+                    "scored_goals": 31,
+                    "conceded_goals": 58
+                },
+                {
+                    "pos": 14,
+                    "name": "West Ham",
+                    "matches": 38,
+                    "points": 40,
+                    "scored_goals": 42,
+                    "conceded_goals": 58
+                },
+                {
+                    "pos": 15,
+                    "name": "Bournemouth FC",
+                    "matches": 38,
+                    "points": 39,
+                    "scored_goals": 37,
+                    "conceded_goals": 71              
+                },
+                {
+                    "pos": 16,
+                    "name": "Nottingham Forrest",
+                    "matches": 38,
+                    "points": 38,
+                    "scored_goals": 38,
+                    "conceded_goals": 68              
+                },
+                {
+                    "pos": 17,
+                    "name": "Everton FC",
+                    "matches": 38,
+                    "points": 36,
+                    "scored_goals": 34,
+                    "conceded_goals": 57              
+                },
+                {
+                    "pos": 18,
+                    "name": "Leicester City",
+                    "matches": 38,
+                    "points": 34,
+                    "scored_goals": 51,
+                    "conceded_goals": 68              
+                },
+                {
+                    "pos": 19,
+                    "name": "Leeds United",
+                    "matches": 38,
+                    "points": 31,
+                    "scored_goals": 48,
+                    "conceded_goals": 78              
+                },
+                {
+                    "pos": 20,
+                    "name": "Southhampton FC",
+                    "matches": 38,
+                    "points": 25,
+                    "scored_goals": 36,
+                    "conceded_goals": 73              
+                }
+            ]
+        },
+        {
+            "name": "Bundesliga",
+            "id": "BL",
+            "standings": [
+                {
+                    "pos": 1,
+                    "name": "FC Bayern",
+                    "matches": 34,
+                    "points": 71,
+                    "scored_goals": 92,
+                    "conceded_goals": 38
+                },
+                {
+                    "pos": 2,
+                    "name": "Borussia dortmund",
+                    "matches": 34,
+                    "points": 71,
+                    "scored_goals": 83,
+                    "conceded_goals": 44
+                },
+                {
+                    "pos": 3,
+                    "name": "RB Leipzig",
+                    "matches": 34,
+                    "points": 66,
+                    "scored_goals": 64,
+                    "conceded_goals": 41
+                },
+                {
+                    "pos": 4,
+                    "name": "1.FC Union Berlin",
+                    "matches": 34,
+                    "points": 62,
+                    "scored_goals": 58,
+                    "conceded_goals": 31
+                },
+                {
+                    "pos": 5,
+                    "name": "SC Freiburg",
+                    "matches": 34,
+                    "points": 59,
+                    "scored_goals": 51,
+                    "conceded_goals": 44
+                },
+                {
+                    "pos": 6,
+                    "name": "Bayer Leverkusen",
+                    "matches": 34,
+                    "points": 50,
+                    "scored_goals": 57,
+                    "conceded_goals": 49
+                },
+                {
+                    "pos": 7,
+                    "name": "Eintracht Frankfurt",
+                    "matches": 34,
+                    "points": 50,
+                    "scored_goals": 58,
+                    "conceded_goals": 52
+                },
+                {
+                    "pos": 8,
+                    "name": "VFL Wolfsburg",
+                    "matches": 34,
+                    "points": 49,
+                    "scored_goals": 57,
+                    "conceded_goals": 48
+                },
+                {
+                    "pos": 9,
+                    "name": "1.FSV Mainz 05",
+                    "matches": 34,
+                    "points": 46,
+                    "scored_goals": 54,
+                    "conceded_goals": 55
+                },
+                {
+                    "pos": 10,
+                    "name": "Borussia Mönchengladbach",
+                    "matches": 34,
+                    "points": 43,
+                    "scored_goals": 52,
+                    "conceded_goals": 55
+                },
+                {
+                    "pos": 11,
+                    "name": "1.FC Köln",
+                    "matches": 34,
+                    "points": 42,
+                    "scored_goals": 49,
+                    "conceded_goals": 54
+                },
+                {
+                    "pos": 12,
+                    "name": "TSG Hoffenheim",
+                    "matches": 34,
+                    "points": 36,
+                    "scored_goals": 48,
+                    "conceded_goals": 57
+                },
+                {
+                    "pos": 13,
+                    "name": "SV Werder Bremen",
+                    "matches": 34,
+                    "points": 36,
+                    "scored_goals": 51,
+                    "conceded_goals": 64
+                },
+                {
+                    "pos": 14,
+                    "name": "VFL Bochum",
+                    "matches": 34,
+                    "points": 35,
+                    "scored_goals": 40,
+                    "conceded_goals": 72
+                },
+                {
+                    "pos": 15,
+                    "name": "1. FC Augsburg",
+                    "matches": 34,
+                    "points": 34,
+                    "scored_goals": 42,
+                    "conceded_goals": 63
+                },
+                {
+                    "pos": 16,
+                    "name": "VFB Stuttgart",
+                    "matches": 34,
+                    "points": 33,
+                    "scored_goals": 45,
+                    "conceded_goals": 57
+                },
+                {
+                    "pos": 17,
+                    "name": "FC Schalke 04",
+                    "matches": 34,
+                    "points": 31,
+                    "scored_goals": 35,
+                    "conceded_goals": 71
+                },
+                {
+                    "pos": 18,
+                    "name": "Hertha BSC",
+                    "matches": 34,
+                    "points": 29,
+                    "scored_goals": 42,
+                    "conceded_goals": 69
+                }
+            ]
+        },
+        {
+            "name": "LaLiga Santander",
+            "id": "PD",
+            "standings": [
+                {
+                    "pos": 1,
+                    "name": "FC Barcelona",
+                    "matches": 38,
+                    "points": 88,
+                    "scored_goals": 70,
+                    "conceded_goals": 20
+                },
+                {
+                    "pos": 2,
+                    "name": "Real Madrid",
+                    "matches": 38,
+                    "points": 78,
+                    "scored_goals": 75,
+                    "conceded_goals": 36
+                },
+                {
+                    "pos": 3,
+                    "name": "Athletico Madrid",
+                    "matches": 38,
+                    "points": 77,
+                    "scored_goals": 70,
+                    "conceded_goals": 33
+                },
+                {
+                    "pos": 4,
+                    "name": "Real Sociedad",
+                    "matches": 38,
+                    "points": 71,
+                    "scored_goals": 51,
+                    "conceded_goals": 35
+                },
+                {
+                    "pos": 5,
+                    "name": "Villareal CF",
+                    "matches": 38,
+                    "points": 64,
+                    "scored_goals": 59,
+                    "conceded_goals": 40
+                },
+                {
+                    "pos": 6,
+                    "name": "Real Betis",
+                    "matches": 38,
+                    "points": 60,
+                    "scored_goals": 46,
+                    "conceded_goals": 41
+                },
+                {
+                    "pos": 7,
+                    "name": "CA Osasuna",
+                    "matches": 38,
+                    "points": 53,
+                    "scored_goals": 37,
+                    "conceded_goals": 42
+                },
+                {
+                    "pos": 8,
+                    "name": "Atletic Bilbao",
+                    "matches": 38,
+                    "points": 51,
+                    "scored_goals": 47,
+                    "conceded_goals": 43
+                },
+                {
+                    "pos": 9,
+                    "name": "RCD Mallorca",
+                    "matches": 38,
+                    "points": 50,
+                    "scored_goals": 37,
+                    "conceded_goals": 43
+                },
+                {
+                    "pos": 10,
+                    "name": "Girona FC",
+                    "matches": 38,
+                    "points": 49,
+                    "scored_goals": 58,
+                    "conceded_goals": 55
+                },
+                {
+                    "pos": 11,
+                    "name": "Rayo Valecano",
+                    "matches": 38,
+                    "points": 49,
+                    "scored_goals": 58,
+                    "conceded_goals": 55
+                },
+                {
+                    "pos": 12,
+                    "name": "Sevilla FC",
+                    "matches": 38,
+                    "points": 49,
+                    "scored_goals": 47,
+                    "conceded_goals": 54
+                },
+                {
+                    "pos": 13,
+                    "name": "Celta Vigo",
+                    "matches": 38,
+                    "points": 43,
+                    "scored_goals": 43,
+                    "conceded_goals": 53
+                },
+                {
+                    "pos": 14,
+                    "name": "Cadiz CF",
+                    "matches": 38,
+                    "points": 42,
+                    "scored_goals": 30,
+                    "conceded_goals": 53
+                },
+                {
+                    "pos": 15,
+                    "name": "Getafe CF",
+                    "matches": 38,
+                    "points": 42,
+                    "scored_goals": 34,
+                    "conceded_goals": 45
+                },
+                {
+                    "pos": 16,
+                    "name": "FC Valencia",
+                    "matches": 38,
+                    "points": 42,
+                    "scored_goals": 42,
+                    "conceded_goals": 45
+                },
+                {
+                    "pos": 17,
+                    "name": "UD Almeira",
+                    "matches": 38,
+                    "points": 41,
+                    "scored_goals": 49,
+                    "conceded_goals": 56
+                },
+                {
+                    "pos": 18,
+                    "name": "Real Valladolid CF",
+                    "matches": 38,
+                    "points": 40,
+                    "scored_goals": 33,
+                    "conceded_goals": 63
+                },
+                {
+                    "pos": 19,
+                    "name": "Espanyol Barcelona",
+                    "matches": 38,
+                    "points": 37,
+                    "scored_goals": 52,
+                    "conceded_goals": 69
+                },
+                {
+                    "pos": 20,
+                    "name": "Elche CF",
+                    "matches": 38,
+                    "points": 25,
+                    "scored_goals": 30,
+                    "conceded_goals": 67
+                }
+            ]
+        },
+                
+        {
+            "name": "Serie A",
+            "id": "SA",
+            "standings": [
+                {
+                    "pos": 1,
+                    "name": "SSC Neapel",
+                    "matches": 38,
+                    "points": 90,
+                    "scored_goals": 77,
+                    "conceded_goals": 28
+                },
+                {
+                    "pos": 2,
+                    "name": "Lazio Rom",
+                    "matches": 38,
+                    "points": 74,
+                    "scored_goals": 60,
+                    "conceded_goals": 30
+                },
+                {
+                    "pos": 3,
+                    "name": "Inter Mailand",
+                    "matches": 38,
+                    "points": 72,
+                    "scored_goals": 71,
+                    "conceded_goals": 42
+                },
+                {
+                    "pos": 4,
+                    "name": "AC Mailand",
+                    "matches": 38,
+                    "points": 70,
+                    "scored_goals": 64,
+                    "conceded_goals": 43
+                },
+                {
+                    "pos": 5,
+                    "name": "Atalanta Bergamo",
+                    "matches": 38,
+                    "points": 64,
+                    "scored_goals": 66,
+                    "conceded_goals": 48
+                },
+                {
+                    "pos": 6,
+                    "name": "AS Roma",
+                    "matches": 38,
+                    "points": 63,
+                    "scored_goals": 50,
+                    "conceded_goals": 38
+                },
+                {
+                    "pos": 7,
+                    "name": "Juventus Turin",
+                    "matches": 38,
+                    "points": 62,
+                    "scored_goals": 56,
+                    "conceded_goals": 33
+                },
+                {
+                    "pos": 8,
+                    "name": "AC Florenz",
+                    "matches": 38,
+                    "points": 56,
+                    "scored_goals": 53,
+                    "conceded_goals": 43
+                },
+                {
+                    "pos": 9,
+                    "name": "FC Bolognia",
+                    "matches": 38,
+                    "points": 54,
+                    "scored_goals": 53,
+                    "conceded_goals": 49
+                },
+                {
+                    "pos": 10,
+                    "name": "Torino FC",
+                    "matches": 38,
+                    "points": 53,
+                    "scored_goals": 42,
+                    "conceded_goals": 41
+                },
+                {
+                    "pos": 11,
+                    "name": "AC Monza",
+                    "matches": 38,
+                    "points": 52,
+                    "scored_goals": 48,
+                    "conceded_goals": 52
+                },
+                {
+                    "pos": 12,
+                    "name": "Udinese Calcio",
+                    "matches": 38,
+                    "points": 46,
+                    "scored_goals": 47,
+                    "conceded_goals": 48
+                },
+                {
+                    "pos": 13,
+                    "name": "US Sassouolo Calcio",
+                    "matches": 38,
+                    "points": 45,
+                    "scored_goals": 47,
+                    "conceded_goals": 61
+                },
+                {
+                    "pos": 14,
+                    "name": "Empoli FC",
+                    "matches": 38,
+                    "points": 43,
+                    "scored_goals": 37,
+                    "conceded_goals": 49
+                },
+                {
+                    "pos": 15,
+                    "name": "US Salernitana",
+                    "matches": 38,
+                    "points": 42,
+                    "scored_goals": 48,
+                    "conceded_goals": 62              
+                },
+                {
+                    "pos": 16,
+                    "name": "US Lecce",
+                    "matches": 38,
+                    "points": 36,
+                    "scored_goals": 33,
+                    "conceded_goals": 46              
+                },
+                {
+                    "pos": 17,
+                    "name": "Hellas Verona",
+                    "matches": 38,
+                    "points": 31,
+                    "scored_goals": 31,
+                    "conceded_goals": 59              
+                },
+                {
+                    "pos": 18,
+                    "name": "Spezia Calcio",
+                    "matches": 38,
+                    "points": 31,
+                    "scored_goals": 31,
+                    "conceded_goals": 62              
+                },
+                {
+                    "pos": 19,
+                    "name": "US Cremonese",
+                    "matches": 38,
+                    "points": 27,
+                    "scored_goals": 36,
+                    "conceded_goals": 69              
+                },
+                {
+                    "pos": 20,
+                    "name": "US Sampdoria Genua",
+                    "matches": 38,
+                    "points": 19,
+                    "scored_goals": 24,
+                    "conceded_goals": 71              
+                }
+             ]
+        }
+    ]
+}
